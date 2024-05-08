@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "description":"this is book description",
+        "price":0,
+        "category":"free",
+        "image":"/card.jpg"
+
+    },
+
+    {
+        "id":2,
+        "name":"horror Book",
+        "description":"this is book description",
+        "price":0,
+        "category":"free",
+        "image":"/card.jpg"
+
+    },
+
+    {
+        "id":3,
+        "name":"Fairy Tale",
+        "description":"this is book description",
+        "price":0,
+        "category":"free",
+        "image":"/card.jpg"
+
+    },
+
+    {
+        "id":4,
+        "name":"Comedy Book",
+        "description":"this is book description",
+        "price":100,
+        "category":"Comedy",
+        "image":"/card.jpg"
+
+    },
+
+    {
+        "id":5,
+        "name":"Sports Book",
+        "description":"this is book description",
+        "price":200,
+        "category":"Sports",
+        "image":"/card.jpg"
+
+    },
+
+    {
+        "id":6,
+        "name":"Entertainment Book",
+        "description":"this is book description",
+        "price":150,
+        "category":"Entertainment",
+        "image":"/card.jpg"
+
+    }
+    
+]
