@@ -31,7 +31,7 @@ function Banner() {
             </label>
           </div>
           <button className=" mt-6 btn btn-active btn-secondary">
-            Secondary
+            Get Started
           </button>
         </div>
         <div className="order-1 w-full md:w-1/2">
